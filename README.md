@@ -1,8 +1,8 @@
-##Lab 2 Homework
+## Lab 2 Homework
 
-###Homew
+### Homew
 
-![img]('scrollingss.png')
+![img]('stss.png')
 
 **subheading and text have layout**
 
