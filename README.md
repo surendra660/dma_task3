@@ -2,7 +2,7 @@
 
 ### Homew
 
-![img]('stss.png')
+![img](stss.png)
 
 **subheading and text have layout**
 
