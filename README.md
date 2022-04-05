@@ -1,9 +1,10 @@
-## Lab 2 Homework
+## Lab 3 Homework
 
-### Homew
+### Homework
 
 ![img](stss.png)
 
-**subheading and text have layout**
+**subheading and text have different layout which is linear and displaying the contents in two sides
+**
 
 ---
